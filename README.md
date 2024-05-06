@@ -1,3 +1,4 @@
+![logo](https://github.com/Harryupthere/Harryupthere/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Harsh Chouhan</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
